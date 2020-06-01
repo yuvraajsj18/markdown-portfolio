@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Index.md
 ---
 
 {% include 01-name.md %}
